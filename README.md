@@ -1,5 +1,5 @@
 # training code  
-cd projects/kaggle/usp    
+cd projects/kaggle/usp/src
 # 7 models * 6 = 42 total models as below  
 python ./main.py   
 python ./maing.py --hug=patent  
