@@ -1,7 +1,7 @@
 # training code  
 cd projects/kaggle/usp    
 # 7 models * 6 = 42 total models as below  
-python ./main.py 
+python ./main.py   
 python ./maing.py --hug=patent  
 python ./main.py --hug=electra-squad  
 python ./maing.py --hug=simcse-patent  
