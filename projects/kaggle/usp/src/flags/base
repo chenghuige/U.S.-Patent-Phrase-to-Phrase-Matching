@@ -1,0 +1,5 @@
+--hug=deberta-v3-large
+--lower=0
+--pooling=latt
+--remove_self_target  
+

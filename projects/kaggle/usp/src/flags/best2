@@ -1,0 +1,8 @@
+--hug=patent
+--lower=0
+--pooling=latt
+--remove_self_target  
+--shuffle_targets
+--rnn_dropout=0.1
+--rnn_double_dim 
+

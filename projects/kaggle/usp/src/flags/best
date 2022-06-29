@@ -1,0 +1,8 @@
+--hug=deberta-v3
+--lower=0
+--pooling=latt
+--remove_self_target  
+--shuffle_targets
+--rnn_dropout=0.3
+--rnn_double_dim 
+
